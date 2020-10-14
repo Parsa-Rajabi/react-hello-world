@@ -8,7 +8,7 @@ ReactDOM.render(
 
   <React.StrictMode>
     {/*<App />*/}
-      <h1>Hello world from 2020!</h1>
+      <h1>Hello world from 2019!</h1>
   </React.StrictMode>,
 
   document.getElementById('root')
