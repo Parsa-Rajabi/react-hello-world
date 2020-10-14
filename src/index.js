@@ -5,9 +5,12 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
+
   <React.StrictMode>
-    <App />
+    {/*<App />*/}
+      <h1>Hello world from 2020!</h1>
   </React.StrictMode>,
+
   document.getElementById('root')
 );
 
